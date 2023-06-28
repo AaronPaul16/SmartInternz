@@ -16,5 +16,5 @@ BOPPURI AARON PAUL
 
 JAYYANA ADI PRANAV
 
-Procedure--
+# Procedure--
 Open command Prompt and go to given directory and then run python app.py
