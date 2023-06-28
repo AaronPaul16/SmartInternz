@@ -9,11 +9,12 @@ model.pkb the pickle model
 app.py contains all the requiered for flask and to manage APIs.
 # Project Developed By
 PINDI VARUN SAI LAKSHMAN
+
+
 BOPPURI AARON PAUL
+
+
 JAYYANA ADI PRANAV
-
-
-
 
 Procedure--
 Open command Prompt and go to given directory and then run python app.py
