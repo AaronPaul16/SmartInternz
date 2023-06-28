@@ -7,7 +7,7 @@ model.pkb the pickle model
 
 # App
 app.py contains all the requiered for flask and to manage APIs.
-#Project Developed By
+# Project Developed By
 PINDI VARUN SAI LAKSHMAN
 BOPPURI AARON PAUL
 JAYYANA ADI PRANAV
